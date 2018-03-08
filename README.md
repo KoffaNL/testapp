@@ -1,1 +1,6 @@
-# testapp
+# NO SANITY CHECKS! RUNNING THIS ON AN EXPOSED SERVER CAN AND WILL CAUSE BANKRUPTCY!
+#
+# Super simple php test-application to cause user-configurable
+# CPU load or wait time on demand
+#
+# NO SANITY CHECKS! RUNNING THIS ON AN EXPOSED SERVER CAN AND WILL CAUSE BANKRUPTCY!
